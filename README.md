@@ -81,9 +81,6 @@ This repository contains implementations of various **Natural Language Processin
 
 ```
 Natural-Language-Processing-Tasks/
-│── FakeNews/             
-│── Gensim/         
-│── NER/              
 │── News Classification/               
 │── Sentiment Analysis/               
 │── requirements.txt   # Project dependencies
